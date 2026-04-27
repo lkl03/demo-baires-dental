@@ -1,2 +1,7 @@
-# demo-baires-dental
-Demo web para Baires Dental — diseñada por eterlab.
+# Baires Dental
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
